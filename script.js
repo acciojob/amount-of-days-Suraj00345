@@ -5,4 +5,4 @@ function daysOfAYear(year) {
 // take input
 let input = prompt('Enter a year:');
 
-alert(daysOfAYear(input));
+console.log(daysOfAYear(input));
